@@ -16,6 +16,8 @@ dll
 
 ## 安卓
 
+[markdown 教程](./flutter/README.md)
+
 ## 任务
 
 - [x] 用 CMake 编译生成 Windows 平台下需要的 `静态链接库 lib` 和 `动态链接库 dll`；并将其实际运用在某一个项目中。
