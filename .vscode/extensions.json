@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "ms-vscode.cpptools",
+    "twxs.cmake",
+    "ms-vscode.cmake-tools",
+    "mhutchie.git-graph",
+    "esbenp.prettier-vscode",
+    "vscodevim.vim",
+    "shardulm94.trailing-spaces",
+    "tomoki1207.pdf"
+  ]
+}
